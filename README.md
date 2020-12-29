@@ -9,9 +9,21 @@ https://github.com/ingafter60/django-airbnb
 		https://github.com/ingafter60/django-airbnb
 
 ### 1.1 The Pacakge Installer for Python (5-25)
+
+		PASS
+
 ### 1.2 Meet Pipenv (2-55)
+
+		>> pip3 install --user three
+
 ### 1.3 Creating our Env and Installing Django (6-56)
+
+		>> pipenv shell
+		>> pip3 install django==2.2.5
+		
 ### 1.4 Testing the Bubble (2-36)
+
+		>> pip3 freeze
 
 2 Introduction to Django
 
